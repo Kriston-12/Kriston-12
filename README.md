@@ -1,4 +1,4 @@
-# What's up there😉🫠
+# What's up there😉
 
 I'm Kriston.
 Committed to learning, on this journey I'm yearning,

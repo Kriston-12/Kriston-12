@@ -23,7 +23,3 @@ Collaborating with others, in the cipher, synergistically.
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kriston-12&show_icons=true&locale=en&layout=compact" alt="kriston-12" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kriston-12&" alt="kriston-12" /></p>
-
-
-

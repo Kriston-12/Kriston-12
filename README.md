@@ -1,7 +1,7 @@
 # What's up there😉
 
 I'm Kriston.
-Committed to learning, on this journey I'm yearning,
+Committed to learning, on this journey I'm yearning,\t
 Programming, machine learning, algorithms, I'm discerning.
 Team contribution, it's a fusion, no illusion,
 Self-directed and energetic, in any situation, no concession.

@@ -25,3 +25,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="70" height="70"/>
 </p>
 
+<p align="left">
+  <img
+    src="https://raw.githubusercontent.com/Kriston-12/Kriston-12/main/profile-summary-card-output/dracula/2-most-commit-language.svg"
+    width="500"
+  />
+</p>
+
